@@ -4,9 +4,3 @@
 -AWS Cloud Practitioner Essentials
 
 ## DevOps
-
-**test**
-
-__test__
-
-Test
