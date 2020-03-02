@@ -16,11 +16,23 @@
 
 ### **AWS Cloud Practitioner Essentials:**
 
-####	-[S3](https://www.aws.training/Details/eLearning?id=36856)
+#### Amazon S3
 Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, such as websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics. Amazon S3 provides easy-to-use management features so you can organize your data and configure finely-tuned access controls to meet your specific business, organizational, and compliance requirements. Amazon S3 is designed for 99.999999999% (11 9's) of durability, and stores data for millions of applications for companies all around the world.
+
+- [Amazon Simple Storage Service (S3) Primer](https://www.aws.training/Details/Curriculum?id=32729)
+- [Block Public Access](https://www.aws.training/Details/eLearning?id=36856)
+- [Using the AWS CLI with Amazon S3](https://www.aws.training/Details/Video?id=26120)
 
 ####	-[EC2](https://www.aws.training/Details/Video?id=16382)
 Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
+
+- [AWS Compute Services Overview](https://www.aws.training/Details/Video?id=16203)
+- [Introduction to Amazon Elastic Compute Cloud (EC2)](https://www.aws.training/Details/Video?id=16382)
+- [Introduction to EC2 Auto Scaling](https://www.aws.training/Details/Video?id=16387)
+- [Understanding Placement Groups](https://www.aws.training/Details/Video?id=16485)
+- [EC2 Systems Manager](https://www.aws.training/Details/Curriculum?id=13830)
+- [Introduction to Dedicated Instances](https://www.aws.training/Details/Video?id=16481)
+- [Introduction to AWS Auto Scaling](https://www.aws.training/Details/Video?id=18344)
 
 ####    -[CloudFront](https://www.aws.training/Details/Video?id=15891)
 Amazon CloudFront è una rete per la distribuzione rapida di contenuti o CDN (Content Delivery Network) che permette la distribuzione di dati, video, applicazioni e API a livello globale agli utenti con latenza minima, velocità di trasferimento elevata, il tutto in un ambiente amichevole per gli sviluppatori. CloudFront si integra con i servizi AWS, in relazione sia ai luoghi fisici connessi direttamente all'infrastruttura globale di AWS, sia ad altri servizi AWS. CloudFront lavora continuamente con servizi inclusi AWS Shield per la mitigazione DDoS, Amazon S3, Elastic Load Balancing o Amazon EC2 quali origini delle applicazioni e Lambda@Edge per eseguire il codice personalizzato per gli utenti dei clienti e per personalizzarne l’esperienza. Inoltre, se vengono impiegate origini dati interne ad AWS, ad esempio Amazon S3, Amazon EC2 e Elastic Load Balancing, non sarà addebitato alcun costo per il trasferimento di dati tra i servizi e CloudFront.
