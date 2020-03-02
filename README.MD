@@ -1,4 +1,4 @@
-#Piano Studio di Iulian Mocanu
+# Piano Studio di Iulian Mocanu
 
 ## Git
 ### **-Learning Git main commands:**
