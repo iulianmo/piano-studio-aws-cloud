@@ -52,6 +52,11 @@ Amazon Relational Database Service (Amazon RDS) semplifica l'impostazione, il fu
 ####	-[DynamoDB](https://www.aws.training/Details/Video?id=16021)
 Amazon DynamoDB è un database che supporta i modelli di dati di tipo documento e di tipo chiave-valore che offre prestazioni di pochi millisecondi a qualsiasi scala. Si tratta di un database durevole, multimaster, multiregione e completamente gestito che offre sicurezza integrata, backup, ripristino e cache in memoria per applicazioni Internet. DynamoDB può gestire oltre 10 trilioni di richieste al giorno e supporta picchi di oltre 20 milioni di richieste al secondo.
 
+#### Lab 
+
+- [Introduction to Amazon DynamoDB]´https://www.qwiklabs.com/focuses/10407?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4762834) -*DONE*
+
+
 ####	-[ElastiCache](https://www.aws.training/Details/Video?id=36892)
 Amazon ElastiCache consente di impostare, eseguire e scalare in modo ottimale i comuni datastore in memoria open source compatibili nel cloud. Sviluppa applicazioni a intenso utilizzo di dati o migliora le prestazioni dei database esistenti recuperando i dati da datastore in memoria a bassa latenza e throughput elevato. Amazon ElastiCache è un servizio molto utilizzato per i casi d'uso in tempo reale come caching, store di sessioni, videogiochi, servizi geospaziali, analisi in tempo reale e accodamento.
 
