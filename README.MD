@@ -54,7 +54,7 @@ Amazon DynamoDB è un database che supporta i modelli di dati di tipo documento 
 
 #### Lab 
 
-- [Introduction to Amazon DynamoDB]´https://www.qwiklabs.com/focuses/10407?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4762834) -*DONE*
+- [Introduction to Amazon DynamoDB](https://www.qwiklabs.com/focuses/10407?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4762834) -*DONE*
 
 
 ####	-[ElastiCache](https://www.aws.training/Details/Video?id=36892)
