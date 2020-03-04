@@ -33,9 +33,9 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that offe
 ###	**-[EC2](https://www.aws.training/Details/Video?id=16382)**
 Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
 
-- [AWS Compute Services Overview](https://www.aws.training/Details/Video?id=16203)
-- [Introduction to Amazon Elastic Compute Cloud (EC2)](https://www.aws.training/Details/Video?id=16382)
-- [Introduction to EC2 Auto Scaling](https://www.aws.training/Details/Video?id=16387)
+- [AWS Compute Services Overview](https://www.aws.training/Details/Video?id=16203) - *DONE*
+- [Introduction to Amazon Elastic Compute Cloud (EC2)](https://www.aws.training/Details/Video?id=16382) - *DONE*
+- [Introduction to EC2 Auto Scaling](https://www.aws.training/Details/Video?id=16387) - _DOING_
 - [Understanding Placement Groups](https://www.aws.training/Details/Video?id=16485)
 - [EC2 Systems Manager](https://www.aws.training/Details/Curriculum?id=13830)
 - [Introduction to Dedicated Instances](https://www.aws.training/Details/Video?id=16481)
