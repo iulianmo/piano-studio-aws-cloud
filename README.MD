@@ -36,8 +36,8 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure,
 - [AWS Compute Services Overview](https://www.aws.training/Details/Video?id=16203) - *DONE*
 - [Introduction to Amazon Elastic Compute Cloud (EC2)](https://www.aws.training/Details/Video?id=16382) - *DONE*
 - [Introduction to EC2 Auto Scaling](https://www.aws.training/Details/Video?id=16387) - *DONE*
-- [Understanding Placement Groups](https://www.aws.training/Details/Video?id=16485) - *DOING*
-- [EC2 Systems Manager](https://www.aws.training/Details/Curriculum?id=13830)
+- [Understanding Placement Groups](https://www.aws.training/Details/Video?id=16485) - *DONE*
+- [EC2 Systems Manager](https://www.aws.training/Details/Curriculum?id=13830) - *DOING* 
 - [Introduction to Dedicated Instances](https://www.aws.training/Details/Video?id=16481)
 - [Introduction to AWS Auto Scaling](https://www.aws.training/Details/Video?id=18344)
 
