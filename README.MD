@@ -42,8 +42,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure,
 - [Introduction to AWS Auto Scaling](https://www.aws.training/Details/Video?id=18344)
 
 #### Lab
--[Introduction to AWS Identity and Access Management (IAM)](https://www.qwiklabs.com/focuses/10408?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4776183)
-
+- [ntroduction to AWS Identity and Access Management (IAM)](https://www.qwiklabs.com/focuses/10408?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4776183) - *DONE*
 
 
 ###    **-[CloudFront](https://www.aws.training/Details/Video?id=15891)**
