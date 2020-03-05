@@ -41,6 +41,11 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure,
 - [Introduction to Dedicated Instances](https://www.aws.training/Details/Video?id=16481)
 - [Introduction to AWS Auto Scaling](https://www.aws.training/Details/Video?id=18344)
 
+#### Lab
+-[Introduction to AWS Identity and Access Management (IAM)](https://www.qwiklabs.com/focuses/10408?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4776183)
+
+
+
 ###    **-[CloudFront](https://www.aws.training/Details/Video?id=15891)**
 Amazon CloudFront è una rete per la distribuzione rapida di contenuti o CDN (Content Delivery Network) che permette la distribuzione di dati, video, applicazioni e API a livello globale agli utenti con latenza minima, velocità di trasferimento elevata, il tutto in un ambiente amichevole per gli sviluppatori. CloudFront si integra con i servizi AWS, in relazione sia ai luoghi fisici connessi direttamente all'infrastruttura globale di AWS, sia ad altri servizi AWS. CloudFront lavora continuamente con servizi inclusi AWS Shield per la mitigazione DDoS, Amazon S3, Elastic Load Balancing o Amazon EC2 quali origini delle applicazioni e Lambda@Edge per eseguire il codice personalizzato per gli utenti dei clienti e per personalizzarne l’esperienza. Inoltre, se vengono impiegate origini dati interne ad AWS, ad esempio Amazon S3, Amazon EC2 e Elastic Load Balancing, non sarà addebitato alcun costo per il trasferimento di dati tra i servizi e CloudFront.
 
@@ -53,8 +58,7 @@ Amazon Relational Database Service (Amazon RDS) semplifica l'impostazione, il fu
 ###	**-[DynamoDB](https://www.aws.training/Details/Video?id=16021)**
 Amazon DynamoDB è un database che supporta i modelli di dati di tipo documento e di tipo chiave-valore che offre prestazioni di pochi millisecondi a qualsiasi scala. Si tratta di un database durevole, multimaster, multiregione e completamente gestito che offre sicurezza integrata, backup, ripristino e cache in memoria per applicazioni Internet. DynamoDB può gestire oltre 10 trilioni di richieste al giorno e supporta picchi di oltre 20 milioni di richieste al secondo.
 
-#### Lab 
-
+#### Lab
 - [Introduction to Amazon DynamoDB](https://www.qwiklabs.com/focuses/10407?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4762834) -*DONE*
 
 
