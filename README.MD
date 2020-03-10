@@ -29,6 +29,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that offe
 
 ##### Documentation
 - [Appunti S3](https://github.com/iulianmo/piano-studio-aws-cloud/tree/master/appunti/S3)
+
  
 ###	**-[EC2](https://www.aws.training/Details/Video?id=16382)**
 Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
@@ -42,7 +43,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure,
 - [Introduction to AWS Auto Scaling](https://www.aws.training/Details/Video?id=18344)
 
 #### Lab
-- [ntroduction to AWS Identity and Access Management (IAM)](https://www.qwiklabs.com/focuses/10408?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4776183) - *DONE*
+- [Introduction to AWS Identity and Access Management (IAM)](https://www.qwiklabs.com/focuses/10408?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4776183) - *DONE*
 
 
 ###    **-[CloudFront](https://www.aws.training/Details/Video?id=15891)**
@@ -61,6 +62,15 @@ Amazon DynamoDB è un database che supporta i modelli di dati di tipo documento 
 - [Introduction to Amazon DynamoDB](https://www.qwiklabs.com/focuses/10407?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4762834) -*DONE*
 
 
+###     **-[CloudWatch](https://www.aws.training/Details/Video?id=16390)**
+Amazon CloudWatch è un servizio di monitoraggio e osservabilità creato per ingegneri, sviluppatori, ingegneri responsabili dell'affidabilità del sito (SRE) e manager IT DevOps. CloudWatch fornisce dati e analisi concrete per monitorare le applicazioni, rispondere ai cambiamenti di prestazioni a livello di sistema, ottimizzare l'utilizzo delle risorse e ottenere una visualizzazione unificata dello stato di integrità operativa. CloudWatch raccoglie dati di monitoraggio e operativi sotto forma di log, parametri ed eventi, fornendo una visualizzazione unificata delle risorse AWS, sulle applicazioni e i servizi eseguiti in AWS e su server locali. Si può utilizzare CloudWatch per rilevare comportamento anomalo nei tuoi ambienti, impostare allarmi, visualizzare log e parametri uno di fianco all'altro, intraprendere azioni automatiche, risolvere problemi e scoprire informazioni per garantire che le applicazioni
+vengano eseguite senza intoppi.
+
+#### Video courses
+
+##### -[Introduction to Amazon CloudWatch](https://www.aws.training/Details/Video?id=16390)
+##### -[Introduction to Amazon CloudWatch Logs](https://www.aws.training/Details/Video?id=16391)
+
 ###	**-[ElastiCache](https://www.aws.training/Details/Video?id=36892)**
 Amazon ElastiCache consente di impostare, eseguire e scalare in modo ottimale i comuni datastore in memoria open source compatibili nel cloud. Sviluppa applicazioni a intenso utilizzo di dati o migliora le prestazioni dei database esistenti recuperando i dati da datastore in memoria a bassa latenza e throughput elevato. Amazon ElastiCache è un servizio molto utilizzato per i casi d'uso in tempo reale come caching, store di sessioni, videogiochi, servizi geospaziali, analisi in tempo reale e accodamento.
 
@@ -70,9 +80,6 @@ AWS CloudFormation offre un linguaggio comune per modellare ed effettuare il pro
 ###	**-[Elastic Beanstalk](https://www.aws.training/Details/Video?id=15878)**
 AWS Elastic Beanstalk è un servizio di semplice utilizzo per distribuire e ridimensionare applicazioni e servizi Web sviluppati con Java, .NET, PHP, Node.js, Python, Ruby, Go e Docker su server comuni come Apache, Nginx, Passenger e IIS.
 
-###	**-[CloudWatch](https://www.aws.training/Details/Video?id=16390)**
-Amazon CloudWatch è un servizio di monitoraggio e osservabilità creato per ingegneri, sviluppatori, ingegneri responsabili dell'affidabilità del sito (SRE) e manager IT DevOps. CloudWatch fornisce dati e analisi concrete per monitorare le applicazioni, rispondere ai cambiamenti di prestazioni a livello di sistema, ottimizzare l'utilizzo delle risorse e ottenere una visualizzazione unificata dello stato di integrità operativa. CloudWatch raccoglie dati di monitoraggio e operativi sotto forma di log, parametri ed eventi, fornendo una visualizzazione unificata delle risorse AWS, sulle applicazioni e i servizi eseguiti in AWS e su server locali. Si può utilizzare CloudWatch per rilevare comportamento anomalo nei tuoi ambienti, impostare allarmi, visualizzare log e parametri uno di fianco all'altro, intraprendere azioni automatiche, risolvere problemi e scoprire informazioni per garantire che le applicazioni
-vengano eseguite senza intoppi.
 
 ###    **-AWS Security (WAF, Shield, Inspector, Trusted Advisor, CloudTrail, Config)**
 
