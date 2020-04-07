@@ -83,6 +83,8 @@ AWS Elastic Beanstalk è un servizio di semplice utilizzo per distribuire e ridi
 
 ###    **-AWS Security (WAF, Shield, Inspector, Trusted Advisor, CloudTrail, Config)**
 
-##### (link:https://learn.acloud.guru/course/aws-certified-cloud-practitioner)
+##### **[Cloud Guru's Course AWS Cloud Practitioner](link:https://learn.acloud.guru/course/aws-certified-cloud-practitioner)**
+
+##### **[AWS Cloud Practitioner Practice Exams](https://portal.tutorialsdojo.com/courses/free-aws-certified-cloud-practitioner-practice-exams-2020-sampler/)**
 
 ## DevOps
