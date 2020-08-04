@@ -102,11 +102,18 @@ AWS Elastic Beanstalk è un servizio di semplice utilizzo per distribuire e ridi
 
 
 
-###    **-AWS AWS Well-Architected**
+###    **-AWS Well-Architected**
  AWS Well-Architected è stato sviluppato per supportare gli architetti del cloud nella realizzazione di un'infrastruttura sicura, flessibile, efficiente e altamente performante per le loro applicazioni. Basato sul cinque pilastri: eccellenza operativa, sicurezza, affidabilità, efficienza delle prestazioni e ottimizzazione dei costi.
 
 ##### Video  Courses
 - [The AWS Well-Architected Framework](https://www.aws.training/Details/eLearning?id=42036) - *DOING*
+
+
+
+###    **-Lightsail**
+
+#### Courses
+-[Deploying and Scaling Applications with Amazon Lightsail](https://www.aws.training/Details/eLearning?id=30854)
 
 
 
