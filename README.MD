@@ -102,6 +102,7 @@ AWS Elastic Beanstalk è un servizio di semplice utilizzo per distribuire e ridi
 
 
 
+<<<<<<< HEAD
 ###    **-AWS Well-Architected**
  AWS Well-Architected è stato sviluppato per supportare gli architetti del cloud nella realizzazione di un'infrastruttura sicura, flessibile, efficiente e altamente performante per le loro applicazioni. Basato sul cinque pilastri: eccellenza operativa, sicurezza, affidabilità, efficienza delle prestazioni e ottimizzazione dei costi.
 
@@ -117,6 +118,8 @@ AWS Elastic Beanstalk è un servizio di semplice utilizzo per distribuire e ridi
 
 
 
+=======
+>>>>>>> 7be7e96bcecb251f63764fd125f678d7373532db
 ###    **-AWS Security (WAF, Shield, Inspector, Trusted Advisor, CloudTrail, Config)**
 
 
@@ -124,5 +127,7 @@ AWS Elastic Beanstalk è un servizio di semplice utilizzo per distribuire e ridi
 #### **[Cloud Guru's Course AWS Cloud Practitioner](link:https://learn.acloud.guru/course/aws-certified-cloud-practitioner)**
 
 #### **[AWS Cloud Practitioner Practice Exams](https://portal.tutorialsdojo.com/courses/free-aws-certified-cloud-practitioner-practice-exams-2020-sampler/)**
+
+## Python
 
 ## DevOps
