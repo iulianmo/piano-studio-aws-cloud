@@ -18,6 +18,12 @@
 
 ### **AWS Certified Cloud Practitioner**
 
+### Online course
+- [Cloud Guru's Course AWS Cloud Practitioner](https://learn.acloud.guru/course/aws-certified-cloud-practitioner)
+
+### Exams test
+- [AWS Cloud Practitioner Practice Exams](https://portal.tutorialsdojo.com/courses/free-aws-certified-cloud-practitioner-practice-exams-2020-sampler/)
+
 ### [**S3**](https://aws.amazon.com/s3/?nc1=h_ls)
 Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, such as websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics. Amazon S3 provides easy-to-use management features so you can organize your data and configure finely-tuned access controls to meet your specific business, organizational, and compliance requirements. Amazon S3 is designed for 99.999999999% (11 9's) of durability, and stores data for millions of applications for companies all around the world.
 
@@ -39,7 +45,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure,
 - [Introduction to Dedicated Instances](https://www.aws.training/Details/Video?id=16481) - *DONE*
 - [Introduction to AWS Auto Scaling](https://www.aws.training/Details/Video?id=18344) - *DONE*
 
-#### Labs
+##### Labs
 - [Introduction to AWS Identity and Access Management (IAM)](https://www.qwiklabs.com/focuses/10408?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4776183) - *DONE*
 
 
@@ -71,7 +77,7 @@ Amazon DynamoDB is a key-value and document database that delivers single-digit 
 
 ##### Video Courses
 - [Amazon DynamoDB Service Introduction](https://www.aws.training/Details/Video?id=36857)
-#### Labs
+##### Labs
 - [Introduction to Amazon DynamoDB](https://www.qwiklabs.com/focuses/10407?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4762834) -*DONE*
 - [Creazione utenze con DynamoDB (Ticket)](https://xpeppersit.freshdesk.com/a/tickets/40637) - *DONE*
 
@@ -89,13 +95,6 @@ AWS CloudFormation gives you an easy way to model a collection of related AWS an
 
 ##### Video courses
 - [Introduction to AWS CloudFormation](https://www.aws.training/Details/Video?id=15892)
-
-
-### Online course
-- [Cloud Guru's Course AWS Cloud Practitioner](https://learn.acloud.guru/course/aws-certified-cloud-practitioner)
-
-### Exams test
-- [AWS Cloud Practitioner Practice Exams](https://portal.tutorialsdojo.com/courses/free-aws-certified-cloud-practitioner-practice-exams-2020-sampler/)
 
 
 
