@@ -16,7 +16,7 @@
 
 
 -----
-## AWS Cloud
+# AWS Cloud
 
 ## **AWS Certified Cloud Practitioner**
 #### Online course
@@ -41,6 +41,8 @@
 #### Practice Exams
 - [AWS Solutions Architect Associate Practice Exams by Tutorials Dojo](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/)
 
+-----
+# Python
 
 ## **PCEP – Certified Entry-Level Python Programmer**
 #### Online Courses
