@@ -18,7 +18,7 @@
 -----
 ## AWS Cloud
 
-### **AWS Certified Cloud Practitioner**
+## **AWS Certified Cloud Practitioner**
 #### Online course
 - [Cloud Guru's Course AWS Cloud Practitioner](https://learn.acloud.guru/course/aws-certified-cloud-practitioner)
 
