@@ -1,6 +1,18 @@
 # Piano Studio di Iulian Mocanu
 
 -----
+# Linux
+
+## Linux Certified LPIC-1
+
+
+-----
+# Networking
+
+## Cisco Certified CCNA - Routinf and Switching
+
+
+-----
 ## [Git](https://git-scm.com/docs/git#_description)
 #### Learning Git main commands:
 - *Git Clone*
