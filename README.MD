@@ -9,7 +9,7 @@
 -----
 # Networking
 
-## Cisco Certified CCNA - Routinf and Switching
+## Cisco Certified CCNA - Routing and Switching
 
 
 -----
